@@ -7,3 +7,11 @@ git push
 
 git clone XXXXXXXX
 git pull
+
+# 在本地建立branch,并提交
+git branch [name]
+git checkout [name] # 切换到分支
+git add .
+git commit -m "XXX"
+git push
+
